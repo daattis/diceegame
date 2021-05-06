@@ -1,0 +1,2 @@
+# diceegame
+Practising basic Javascript
