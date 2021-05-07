@@ -3,4 +3,5 @@ Practising basic Javascript
 
 The Dicee Game: https://daattis.github.io/diceegame/
 
-![image](https://user-images.githubusercontent.com/70023773/117291668-f504b600-ae77-11eb-9151-57ad5448c5f7.png)
+![image](https://user-images.githubusercontent.com/70023773/117449912-344f0780-af49-11eb-9da9-2aaed85c6009.png)
+
